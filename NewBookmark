@@ -1,0 +1,1 @@
+javascript:(function () {let code = document.createElement('script');code.src = 'https://raw.githubusercontent.com/MonkeProxy/MonkeJS-test/main/CrownJSUSE';document.body.appendChild(code);}())
